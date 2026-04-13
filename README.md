@@ -1,4 +1,4 @@
-# Lógica de Programação: Pseudocódigos e Fluxogramas 💻
+# Pseudocódigos e Fluxogramas 💻
 
 Este repositório contém uma série de exercícios práticos de Lógica de Programação desenvolvidos como parte das atividades do curso técnico em **Desenvolvimento de Sistemas** oferecido pelo **SENAI**. 
 
